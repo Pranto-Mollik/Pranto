@@ -1,0 +1,38 @@
+<style>
+        form input:hover {background-color: yellow}
+        form button:hover {background-color: forestgreen}
+        form textarea:hover {background-color: black }
+    
+    #div1 {width:1200px;
+    height:300px;
+    border: 5px solid green;
+background: orange ;  margin:auto;
+ }
+        
+        
+        button:hover{background: oil;}
+        
+    h1,u { color: black; font-size: 35px
+        }
+#input1:hover {background-color: yellow}
+#input2:hover {background-color: yellow}
+#input3:hover {background-color: yellow}
+#input4:hover {background-color: yellow}
+        #input5{font-size: 20px}
+        #input5:hover {background-color: green}
+        #button1 {font-size: 20px;}
+        #button1:hover {background-color: red}
+        #div2 {width:650px; height:50px; background: red; font background-color: aliceblue;
+            
+        }
+        
+        
+        input{margin: auto; padding:auto;
+        
+        
+        
+        
+        }
+        
+        
+        </style>    
